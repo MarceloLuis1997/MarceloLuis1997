@@ -1,5 +1,12 @@
 ### Loading... 👋
 
+## I'm Marcelo, aka MarceloLuis1997 and Marcelo The Mage Coder!!
+
+- 🔭 I’m currently working on some new personal projects
+- 🌱 I’m currently learning and studing a lot of technologies, especially Flutter in the last days
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love gaming and play guitar
+
 <!--
 **MarceloLuis1997/MarceloLuis1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
