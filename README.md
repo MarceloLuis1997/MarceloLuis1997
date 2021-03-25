@@ -19,7 +19,8 @@
 
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][javascript]
 [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][nodejs]
-[<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][]
+[<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][html]
+[<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][css]
 
 <!--
 **MarceloLuis1997/MarceloLuis1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +42,5 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/marcelochociay/
 [javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [nodejs]: https://nodejs.org/en/
+[html]
+[css]
