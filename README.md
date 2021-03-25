@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on some new personal projects
 - 🌱 I’m currently learning and studing a lot of technologies, especially Flutter in the last days
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn new technologies
-- ⚡ Fun fact: I love gaming and play guitar
+- ⚡ Fun fact: I like gaming and play guitar
 
 ### Connect with me:
 
