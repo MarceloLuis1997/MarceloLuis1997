@@ -17,8 +17,8 @@
 
 ### Languages and Tools:
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+[<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][javascript]
+[<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][nodejs]
 
 <!--
 **MarceloLuis1997/MarceloLuis1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 [stackoverflow]: https://stackoverflow.com/users/11813677/marcelo-the-mage-coder
 [linkedin]: https://br.linkedin.com/in/marcelo-luis-chociay
 [instagram]: https://www.instagram.com/marcelochociay/
+[javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[nodejs]: https://nodejs.org/en/
