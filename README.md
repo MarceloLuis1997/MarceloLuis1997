@@ -21,6 +21,8 @@
 [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][nodejs]
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][html]
 [<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][css]
+[<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]
+[<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>][php]
 
 <!--
 **MarceloLuis1997/MarceloLuis1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,5 +44,7 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/marcelochociay/
 [javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [nodejs]: https://nodejs.org/en/
-[html]
-[css]
+[html]: https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5
+[css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[java]: https://www.java.com/pt-BR/
+[php]: https://www.php.net/
