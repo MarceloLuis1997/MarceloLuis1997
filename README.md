@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning and studing a lot of technologies, especially Flutter in the last days
 
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn new technologies
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn new technologies
 
 - 💬 Ask me about vue, laravel
 
