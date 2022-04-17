@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
-<h3 align="center">I am a fullstack developer from Brazil</h3>
+<h3 align="center">I am a full-stack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloluis1997&label=Profile%20views&color=0e75b6&style=flat" alt="marceloluis1997" /> </p>
 
 - 🔭 I’m currently working on some new personal projects
 
-- 🌱 I’m currently learning and studing a lot of technologies, especially Flutter in the last days
+- 🌱 I’m currently learning and studing a lot of technologies, especially NestJS in the last days
 
 - 🥅 2022 Goals: Contribute more to Open Source projects and learn new technologies
 
